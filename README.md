@@ -1,4 +1,4 @@
-# Student Performance Analytics System 🎓📊
+# Student Performance Analytics System 
 
 A Python-based data analysis project developed as part of the **Python with AI Internship** at **EWB Tech Academy**. This system automates the processing, evaluation, and performance analysis of student records using **Pandas** and **NumPy**.
 
